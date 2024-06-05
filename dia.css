@@ -52,13 +52,12 @@ nav ul li{
 
 }
 .rightsection{
-  border: 30px rgb(red, green, blue);
-  
-
-
-
-}
+  border: 30px;
+  }
 .rightsection img{
   width: 250px;
   margin: 60px;
+  border-radius: 39%;
+  border: 5px solid brown;
+
 }
